@@ -1,0 +1,12 @@
+{
+  "name": "taddy",
+  "version": "0.0.1",
+  "description": "a time tracking tool",
+  "main": "packages/@core/app.js",
+  "author": "akshay upadhya <akshaysrinagar@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
